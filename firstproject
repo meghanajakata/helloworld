@@ -1,0 +1,5 @@
+cd ~
+cd /Downloads
+touch first.txt
+echo "hello_world" > first.txt
+cat first.txt
